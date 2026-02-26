@@ -1,4 +1,5 @@
-# ali_captchav2
+# ali_captchav2 
+阿里V2滑块
 Feilin,SG dynamic.
 
 阿里V2过滑块动态SG，Feilin，轨迹，全版本支持。
